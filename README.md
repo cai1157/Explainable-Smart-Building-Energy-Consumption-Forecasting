@@ -52,7 +52,8 @@ Explainable-Smart-Building-Energy-Consumption-Forecasting/
     ├── Moose_data_Informer.pt
     ├── Moose_data_PatchTST.pt
     └── baseline_results_summary.csv
-Models Included
+```
+## Models Included
 1. ARIMA
 
 A statistical baseline for time-series forecasting. This model serves as a traditional benchmark against deep learning approaches.
